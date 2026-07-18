@@ -15,9 +15,9 @@ Gzipped files usually have a `.gz` extension.
 
 To gzip a file on the Unix command line do the following:
 
-      > gzip filename
+> gzip filename
 
 This will create a compressed file called `filename.gz` and delete the
 original uncompressed version. To uncompress the file, do
 
-      > gunzip filename.gz
+ > gunzip filename.gz
